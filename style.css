@@ -1,0 +1,223 @@
+/*Configuração Geral e Tipografia*/
+
+/* Remove o preenchimento/margem padrão do navegador em todos os elementos*/
+*{
+    margin: 0;  /* Remover margens como padrão*/
+    padding: 0; /* Remove preenchimento interno padrão*/
+    box-sizing: border-box; /*Obriga  o navegador a incliur um  <span>*/
+}
+
+body{
+    background: rgb(233, 233, 235);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.6; /*Espaçamento vertical entre linhas do texto (1,6 vezes o tamanho da fonte*/
+    padding: 20px;
+    margin: auto;
+}
+
+/* Container Principal para centralizar o conteúdo do portfólio*/
+main{
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+}
+
+/*Cabeçalho (Header) com Flexbox para alinhar foto e título*/
+header{
+    max-width: 800px;
+    margin: 40px auto 20px auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: 20px;
+}
+
+/*Ajuste da Imagem de Perfil*/
+img{
+    width: 150px;
+    height: 150px;
+    border-radius: 500px; /*deixa a foto redonda, estilo LinkedIn*/
+    object-fit: cover; /* Garante que a foto não fique distorcida */
+    border: 3px solid rgb(4, 53, 32);
+}
+
+/* Customização do texto */
+#title{
+    color: rgb(4, 53, 32);
+    font-size: 32px;
+}
+
+.subtitle{
+    color: rgb( 4, 53, 32);
+    font-style: italic;
+    font-weight: 500;
+    margin-bottom: 15px;
+}
+
+.post_title{
+    background-color: rgb(238, 224, 207);
+    text-align: center;
+    color: rgb(4, 53, 32);
+    font-size: 22px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+.post_1, .post_3, .post_2{
+    background: #ffffff;
+    padding: 10px 5px 10px;
+    border-radius: 10px;
+    border-bottom:  1px solid;
+    
+}
+
+section{
+    margin-top: 20px;
+}
+
+p{
+    color: rgb(57, 59, 59);
+    margin-bottom: 15px;
+    text-align: justify;
+}
+
+/* Estilização das Listas (Tecnologias e Projetos) */
+ul{
+    list-style-type:none;/* codigo joinha ("\1F44D")*/
+    margin-bottom: 15px;
+    color: rgb(57, 59, 59);
+}
+
+li{
+    margin-bottom: 8px;
+}
+
+h4{
+    color: rgb( 4, 53, 32);
+    margin-top: 15px;
+    margin-bottom: 5px;
+    font-size: 18px;
+}
+
+/*Linha Divisória */
+hr{
+    border: 0;
+    height: 1px;
+    background: rgba(4, 53, 32, 0.2);
+    margin: 30px 0;
+}
+
+/* Rodapé e Links*/
+footer{
+    max-width: 800px;
+    margin: 40px auto 20px auto;
+    text-align: center;
+}
+
+footer ul{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    list-style: none;
+}
+
+footer a{
+    color: rgb(4, 53, 32);
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s ease;
+}
+
+footer a:hover{
+    color: rgb(57, 59, 59); /* Efeito básico ao passar o mouse*/
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
