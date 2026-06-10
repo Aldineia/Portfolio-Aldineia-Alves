@@ -6,7 +6,7 @@ Este é o repositório do meu website portfólio pessoal, desenvolvido como um p
 
 ---
 
-## 🧑‍💻 Sobre Mim
+##  Sobre Mim
 
 Sou acadêmica de **Engenharia de Software (6º Período)** e apaixonada por tecnologia e resolução de problemas. Ao longo da graduação, direcionei meus estudos para entender não apenas como escrever código, mas como arquitetar soluções que sejam escaláveis, seguras e focadas na experiência do usuário.
 
