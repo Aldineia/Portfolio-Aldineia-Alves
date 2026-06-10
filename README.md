@@ -1,8 +1,8 @@
-# 💻 Website Portfólio - Aldineia Alves
+#  Website Portfólio - Aldineia Alves
 
 Este é o repositório do meu website portfólio pessoal, desenvolvido como um projeto prático para o **Bootcamp Full Stack da DIO (Digital Innovation One)**. O objetivo é consolidar meus aprendizados em desenvolvimento web e centralizar minha trajetória, habilidades e projetos.
 
-🌐 **Acesse o portfólio online:** [Insira o link do seu site publicado aqui]
+ **Acesse o portfólio online:** [Insira o link do seu site publicado aqui]
 
 ---
 
@@ -14,7 +14,7 @@ Atualmente, busco oportunidades no mercado (Estágio / Júnior) para aplicar meu
 
 ---
 
-## 🛠️ Tecnologias e Conceitos Aplicados neste Projeto
+##  Tecnologias e Conceitos Aplicados neste Projeto
 
 Para a construção desta página estruturada e semântica, utilizei:
 * **HTML5:** Estruturação semântica e acessível (uso de tags como `<header>`, `<main>`, `<section>`, `<article>` e `<footer>`).
@@ -23,7 +23,7 @@ Para a construção desta página estruturada e semântica, utilizei:
 
 ---
 
-## 🎯 Minhas Competências Técnicas (Full Stack)
+##  Minhas Competências Técnicas (Full Stack)
 
 Meu stack de estudos na faculdade e no bootcamp da DIO engloba:
 
@@ -34,7 +34,7 @@ Meu stack de estudos na faculdade e no bootcamp da DIO engloba:
 
 ---
 
-## 📂 Projetos em Destaque no Portfólio
+##  Projetos em Destaque no Portfólio
 
 Dentro da minha página, apresento duas grandes experiências práticas:
 
@@ -48,7 +48,7 @@ Dentro da minha página, apresento duas grandes experiências práticas:
 
 ---
 
-## 📬 Vamos construir algo incrível juntos?
+##  Vamos construir algo incrível juntos?
 
 Estou em busca de oportunidades e desafios no mercado de tecnologia. Se você tem uma vaga na sua equipe ou quer trocar uma ideia, entre em contato:
 
