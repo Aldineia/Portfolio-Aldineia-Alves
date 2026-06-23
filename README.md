@@ -1,4 +1,4 @@
-#  Website Portfólio - Aldinéia Alves
+# Aula Prática Website Portfólio - Aldinéia Alves
 
 Este é o repositório do meu website portfólio pessoal, desenvolvido como um projeto prático para o **Bootcamp Full Stack da DIO (Digital Innovation One)**. O objetivo é consolidar meus aprendizados em desenvolvimento web e centralizar minha trajetória, habilidades e projetos.
 
